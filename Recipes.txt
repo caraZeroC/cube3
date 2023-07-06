@@ -8,4 +8,9 @@ Pasta
 Pizza
 Chicken
 
+
+Fried Chicken
+Soup
+
+
 Thank you ;)
